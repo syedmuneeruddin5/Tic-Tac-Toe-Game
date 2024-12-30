@@ -10,4 +10,4 @@ Click the link to download based on your Operating System.
 Here is the link to [Assets](https://github.com/syedmuneeruddin5/Tic-Tac-Toe-Game/releases/latest).
 
 # Credits:
-- Coding Spot. [Video Link Here](https://youtu.be/Bk9hlNZc6sE?si=aY0NQbcfJIMlEVVk)
+- Coding Spot tutorial on "Coding an Unbeatable Tic Tac Toe AI Using Python and the Minimax Algorithm".
