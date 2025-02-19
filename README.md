@@ -1,6 +1,11 @@
 # Tic-Tac-Toe-Game
 Tic Tac Toe Game made with pygame having Computer Mode using minimax algorithm
 
+# Screenshots
+![Main Screen](./Screenshots/Main-Screen.png)
+![Main Screen](./Screenshots/Game.png)
+![Main Screen](./Screenshots/End-Screen.png)
+
 # Installation
 Click the link to download based on your Operating System.
 
