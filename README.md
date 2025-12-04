@@ -16,6 +16,7 @@ Here is the link to [Assets](https://github.com/syedmuneeruddin5/Tic-Tac-Toe-Gam
 
 ## Features
 
+- 🖥️ **Native Desktop App** - Runs as a standalone application on Windows and macOS
 - 🎮 **Three AI Difficulty Levels**:
   - Easy: Random moves
   - Medium: Strategic moves with occasional mistakes
